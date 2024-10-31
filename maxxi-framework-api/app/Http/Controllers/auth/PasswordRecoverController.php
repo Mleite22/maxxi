@@ -13,7 +13,7 @@ use DB;
 class PasswordRecoverController extends Controller
 {
 
-
+ 
     public function request(Request $request) { 
 
 
